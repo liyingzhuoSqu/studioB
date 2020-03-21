@@ -1,2 +1,2 @@
-# studioB
-The repository used to upload the code that I've learned in first half year of 2020.
+#  Week 3
+I tried to use git command to upload files into this branch~
